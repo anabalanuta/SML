@@ -26,8 +26,9 @@
 
 <hr>
 <h3>Links and Images</h3>
-<p>First I am going to link to <a href="https://en-gb.facebook.com/"facebook</a>.</p>
+<p>First I am going to link to <a href="https://en-gb.facebook.com/">facebook</a>.</p>
 
+<img src="https://www.pexels.com/photo/dog-pet-cute-37401/" />
 
 
 
