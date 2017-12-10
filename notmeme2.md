@@ -4,7 +4,7 @@
 var vid = "3r_Z5AYJJd4",
   audio_streams = {};
 
-$.get('https://cors-anywhere.herokuapp.com/https://www.youtube.com/get_video_info?video_id='https://www.youtube.com/watch?v=adSWnGwRjkg, function(data) {
+$.get('https://cors-anywhere.herokuapp.com/https://www.youtube.com/get_video_info?video_id=' https://www.youtube.com/watch?v=adSWnGwRjkg, function(data) {
   var data = parse_str(data),
     streams = (data.url_encoded_fmt_stream_map + ',' + data.adaptive_fmts).split(',');
   console.log(streams);
